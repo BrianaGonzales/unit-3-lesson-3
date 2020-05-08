@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>graphics</title>
+ <link rel="stylesheet" href="styles/mystyle.css" media="screen">
+    </head>
+    <body>
+  <a href="#main">Skip to main content</a>
+  <h1>Graphics</h1>
+      <ul>
+         <h2> About me</h2>
+         <li> Briana Gonzales</li>
+         <li>Mrs.Ward</li>
+         <li><a href="mailto:Brianagonzales0303@gmail.com">Brianagonzales0303.com</a>
+      </ul>
+   <nav>
+   <!--  /*
+     color scheme for this website:
+       #4312AE
+       #472B83
+       #280671
+       #7446D7
+       #8E6DD7
+   */  -->
+       <ul>
+          <li>Home</li>
+          <li><a href="usability.html">Usability</a></li>
+           <li><a href="video.html">Video</a></li>
+         <li><a href="javascript.html">Javascript</a></li>
+          <li><a href="tools.html">Tools</a></li>
+          <li><a href="graphics.html">Graphics</a></li>
+          <li><a href="accessibility.html">Accessibility</a></li>     
+      </ul>
+    </nav>
+      </body>
+    </html>
+
+
